@@ -1,0 +1,141 @@
+h2{
+    font-size:35px; color: rgb(244, 244, 248);
+    background: rgb(233, 134, 233); 
+    text-align: center;
+  }
+  
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+    text-align: center;
+    margin:auto;
+  
+  }
+  
+  td, th {
+    border: 2px solid #2b007c;
+    text-align: left;
+    padding: 2px;  
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f0a9d5;
+  }
+  
+  .desarrollo {
+    background: rgb(248, 50, 162);
+     color: white;  
+  }
+  
+  .acceso {
+    background: rgb(115, 53, 157); 
+    color: azure;  
+  }
+  
+  .empresa {
+    background: rgb(33, 114, 134); 
+    color: azure;  
+  }
+  
+  .sistemas {
+    background: rgb(94, 243, 198);
+    color: rgb(2, 3, 3);  
+  }
+  
+  .seguridad {
+    background: rgb(63, 185, 32); 
+    color: azure;  
+  }
+  
+  .servicio {
+    background: rgb(28, 28, 190); 
+    color: rgb(254, 255, 255);  
+  }
+
+  .multimedia {
+    background: rgb(232, 219, 101); 
+    color: rgb(10, 12, 12);  
+  }
+  
+  .recreoo   {
+    border: 2px solid #d821e9;
+    text-align: center;
+    font-size: 28px;
+    background: rgb(249, 226, 255); 
+  } 
+  
+  .h  {
+    background: rgb(203, 114, 175); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .l  {
+    background: rgb(203, 114, 175); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .m  {
+    background: rgb(203, 114, 175);
+    color: rgb(10, 12, 12);
+  }
+  
+  .mi  {
+    background: rgb(203, 114, 175);
+    color: rgb(10, 12, 12);
+  }
+  
+  .j  {
+    background: rgb(203, 114, 175); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .v  {
+    background: rgb(203, 114, 175);
+    color: rgb(10, 12, 12);
+  }
+  
+  .hh  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .hh2  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .hh3  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .hh4  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .hh5  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  
+  .hh6  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  .hh7  {
+    background: rgb(238, 143, 126); 
+    color: rgb(10, 12, 12);
+  }
+  
+  body{
+    
+  
+    background-image: url(https://syltec.es/blog/wp-content/uploads/2021/10/Dise%C3%B1o-sin-t%C3%ADtulo-8-1024x512.jpg);
+  background-size: cover;
+  }
+  
+  
